@@ -28,7 +28,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency "builder"
   s.add_development_dependency "tmail"
   s.add_development_dependency "xml-simple"
-  s.add_development_dependency "warden"
+  # s.add_development_dependency "warden"
 
   s.rubyforge_project = "sinatra_more"
 
