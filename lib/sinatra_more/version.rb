@@ -1,3 +1,3 @@
 module SinatraMore
-  VERSION = "0.3.43"
+  VERSION = "0.4.0"
 end
